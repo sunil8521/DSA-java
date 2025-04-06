@@ -1,5 +1,5 @@
 
-class RotateArray {
+public class RotateArray {
     void leftRotate(int arr[], int d, int n) {
         d = d % n;
         int i, j, k, temp;
