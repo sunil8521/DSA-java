@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class InfixToPrefix {
+public class InfixToPrefixDynamic {
 
     static final int MAX = 100;
     static int top = -1;
